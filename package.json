@@ -1,0 +1,13 @@
+{
+  "name": "hyebin-app-monorepo",
+  "packageManager": "yarn@4.5.3",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "eslint": "^9.17.0",
+    "prettier": "^3.4.2",
+    "typescript": "^5.7.2"
+  }
+}
